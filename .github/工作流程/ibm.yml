@@ -1,4 +1,4 @@
-名稱：IBM Cloud自動重啟 。        
+Name：IBM Cloud Auto Restart    
 
 on:
   push:
